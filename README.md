@@ -1,1 +1,3 @@
-[# example-html](https://wondwide-html.netlify.app/)https://wondwide-html.netlify.app/
+html 기초 예제 파일 보기
+
+오른쪽 상단의 링크를 클릭하면 각 파일의 결과를 볼 수 있습니다.
